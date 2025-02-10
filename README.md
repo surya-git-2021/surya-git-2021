@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Spring boot, Micro services, Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/surya-git-2021?tab=repositories](https://github.com/surya-git-2021?tab=repositories)
+- 👨‍💻 Portfolio: https://jama-surya-teja.netlify.app/
 
 - 💬 Ask me about **Micro Frontend, React.js, Angular, Node.js, JavaScript, TypeScript, MongoDB, Firebase, MERN-MEAN stacks**
 
